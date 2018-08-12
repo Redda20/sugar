@@ -1,0 +1,7 @@
+<?php
+/***CONFIGURATOR***/
+$sugar_config['use_real_names'] = false;
+$sugar_config['stack_trace_errors'] = true;
+$sugar_config['developerMode'] = true;
+$sugar_config['disabled_themes'] = '';
+/***CONFIGURATOR***/
